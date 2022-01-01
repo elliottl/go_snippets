@@ -1,2 +1,1 @@
-# go_snippets
-random go code
+Some random go code.
